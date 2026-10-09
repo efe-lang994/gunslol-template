@@ -7,11 +7,11 @@ const CONFIG = {
   // ----------------------------------------------------------
   // PROFILE
   // ----------------------------------------------------------
-  profileName:   "𝔍𝔢𝔣𝔢𝔯",      // name shown on the card
+  profileName:   "𝐕𝐞𝐫𝐭𝐞𝐱",      // name shown on the card
   nameTooltip:   "Oñooo",         // tooltip on hover over the name
   nameEffect:    "noise",         // "noise" = TV interference | "none" = plain text
-  statusText:    "🏃🏿‍➡️ Isso é muita areia hoje...", // text below the name (typewriter effect)
-  tabTitle:      "@𝔍𝔢𝔣𝔢𝔯",      // animated browser tab title
+  statusText:    "🏃🏿‍➡️ Her canlı ölümü tadacak...", // text below the name (typewriter effect)
+  tabTitle:      "@𝐕𝐞𝐫𝐭𝐞𝐱",      // animated browser tab title
   entrySymbol:   "⛧",            // symbol shown on the entry screen
 
   // ----------------------------------------------------------
@@ -46,24 +46,24 @@ const CONFIG = {
   // ----------------------------------------------------------
   // DISCORD (static — no API, edit manually)
   // ----------------------------------------------------------
-  discordUsername: "Jofagg_",
-  discordStatus:   "acalme-se vadia...",
+  discordUsername: "by.vertex06",
+  discordStatus:   "Vertex Bots",
   discordAvatar:   "assets/discord-avatar.jpg",
   discordAvatarSize:   "74px",
   discordAvatarBorder: "2px solid rgba(200, 27, 27, 0.15)",
   // status: "online" | "idle" | "dnd" | "offline"
-  discordPresenceStatus: "online",
+  discordPresenceStatus: "dnd",
 
   // ----------------------------------------------------------
   // SOCIAL LINKS
   // Add, remove or reorder. "icon" = path inside assets/icons/
   // ----------------------------------------------------------
   socialLinks: [
-    { name: "Instagram", url: "https://instagram.com/user",         icon: "assets/icons/instagram.png" },
-    { name: "Spotify",   url: "https://open.spotify.com/user", icon: "assets/icons/spotify.png"   },
-    { name: "TikTok",    url: "https://www.tiktok.com/user",           icon: "assets/icons/tiktok.png"    },
-    { name: "OnlyFans",  url: "https://onlyfans.com/user",          icon: "assets/icons/onlyfans.png"  },
-    { name: "Github",  url: "https://github.com/user",          icon: "assets/icons/github.png"  },
+    { name: "Instagram", url: "https://instagram.com/d.vertex.b",         icon: "assets/icons/instagram.png" },
+    { name: "Spotify",   url: "https://open.spotify.com/user/bc1qz6dx9mhk7p8rqd9w4glq60atp3wv9w6nsut80m?si=b115e4e4f2864995", icon: "assets/icons/spotify.png"   },
+    { name: "TikTok",    url: "https://www.tiktok.com/d.vertex.b",           icon: "assets/icons/tiktok.png"    },
+    { name: "Website",  url: "https://vertextr.vercel.app",          icon: "assets/icons/onlyfans.png"  },
+    { name: "Github",  url: "https://github.com//efe-lang994",          icon: "assets/icons/github.png"  },
 ,
   ],
   iconSize:         "36px",
